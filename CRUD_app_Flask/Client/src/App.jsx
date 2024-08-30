@@ -17,4 +17,8 @@ function App() {
   );
 }
 
+<<<<<<< HEAD
 export default App;
+=======
+export default App;
+>>>>>>> e46140b (Tried removing venv)
